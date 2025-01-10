@@ -1,0 +1,11 @@
+,Feature1,Feature2,Feature3,Label
+0,1,5,10,no
+1,2,4,20,yes
+2,3,3,30,unconsider
+3,4,2,40,no
+4,5,1,50,yes
+5,6,0,60,unconsider
+6,7,1,70,no
+7,8,2,80,yes
+8,9,3,90,unconsider
+9,10,4,100,no
